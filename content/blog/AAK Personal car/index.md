@@ -5,26 +5,20 @@ thumbnail: ./picture1.png
 description: Strategy for new online presence 
 ---
 
-### Picasso had his pink period and his blue period. I am in my blonde period right now.
+# Taking care of personal
 
-When I first started wearing pink, it wasn't nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.
+AAK personal care (APC) is a subsidiary within the AAK brand. APC wanted to reframe their entire communication strategy and refocusing their main user group. Formalists are the new key target group for AAK products which are used in the development of cosmetic applications. 
 
-![Title](./picture1.png)
+I was brought on board as the lead UX strategist where I helped build the initial business case internally and guiding the design process from the start. I worked on re-framing the existing communication strategy and building the APC service blueprint. 
+I also worked on mapping the user journey and designing the new user flow with multiple new digital touchpoints.
 
-![Title](./picture2.jpg)
+![Wireframe](./picture2.png)
 
-![Title](./picture3.jpg)
+![Wireframe](./picture3.png)
 
-![Title](./picture4.jpg)
+![Wireframe](./picture4.png)
 
-![Title](./picture5.jpg)
+![Mockup](./picture5.png)
 
-![Title](./picture6.jpg)
+![Mockup](./picture6.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0p5AAIJW-CY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kwHVeWADs2Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U8RVX_ll2_8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vlxH0DAv5ds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

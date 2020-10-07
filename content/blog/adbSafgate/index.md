@@ -2,21 +2,21 @@
 title: Adb Safegate
 date: "2019-05-04"
 thumbnail: ./picture1.jpg
-description: Servide & Web design
+description: Service & Web design
 ---
 
-### Picasso had his pink period and his blue period. I am in my blonde period right now.
+# Next step aviation
 
-When I first started wearing pink, it wasn't nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.sa
+ADB safe gate is a global provider of integrated service and products for setting up and maintaining Airports. 
+We worked together on multiple initiatives where I consulted on design and communication strategies and developed roadmaps for initiative rollouts.  I also worked on re-designs of their web platform improving user flows and on-site navigations.    
 
-![Title](./picture1.jpg)
+Some of the outcomes from our strategic work was the mapping of the web platform highlighting web goals and relating them to the diverse group of 15 stakeholder groups. We also helped to build consensus across management identifying areas of improvements and suggested solutions for front and back-end. 
+Additionally, we also worked on structuring the ADB safegate portfolio and improve customer-centric communication.
 
-![Title](./picture2.jpg)
+![Title](./picture4.png)
 
-![Title](./picture3.jpg)
+![Title](./picture5.png)
 
-![Title](./picture4.jpg)
+![Title](./picture2.png)
 
-![Title](./picture5.jpg)
-
-![Title](./picture6.jpg)
+![Title](./picture3.png)

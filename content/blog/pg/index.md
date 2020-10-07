@@ -1,14 +1,16 @@
 ---
 title: Purificacion Garcia
-date: "2019-05-01"
+date: "2009-05-01"
 thumbnail: ./picture1.jpg
-description: Thinking of Dallipur 
+description: Lead designer & Project cordinator
 ---
 
 
-### Picasso had his pink period and his blue period. I am in my blonde period right now.
+# Thinking of Dallipur
 
-When I first started wearing pink, it wasn't nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.
+Thinking of Dallipur was An interactive installation created at the Plataforma 0_LABoral Centro de Producción, in collaboration with 1Scale1, based on an original idea by Alicia Framis for Purificación García and LABoral Centro de Arte y Creación Industrial.
+This collaborative project involving various cultural agents with the purpose of funding cooperation and development projects in India. Purificación García and LABoral where working together on this project combining art, fashion, new technologies and social commitment.
+The exhibition materialized this idea in different interactive products to raise awareness for the project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tzfo7mQc5iM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

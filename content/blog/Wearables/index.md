@@ -1,14 +1,20 @@
 ---
 title: Wearables
-date: "2019-05-01"
+date: "2007-01-01"
 thumbnail: ./picture1.jpg
 description: Research 
 ---
 
 
-### Picasso had his pink period and his blue period. I am in my blonde period right now.
+# Beyoned the body
 
-When I first started wearing pink, it wasn't nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.
+
+Since 2007 I have been a part of an artistic research group looking into the wearables and more specifically tele-haptic devices.
+The work done has mainly be based on the artistic visions of Norwegian Artist Ståle Stenslie.
+Since the early 90s Stenslie has been investigating how to connect human bodies through the use of technology.
+The research I have done in this project has focused upon the design of interaction with the technology as well as the design and construction of the same.
+Through the years we have developed a large range of tele haptic garments used in multiple context and exhibitions. 
+My research and work in wearables have also spun off their multiple academic publications and three books on the topic of learning to design and prototype using technology.  
 
 ![Title](./picture2.jpg)
 

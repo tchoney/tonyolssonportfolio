@@ -5,9 +5,9 @@ thumbnail: ./picture1.jpg
 description: Service design 
 ---
 
-### Picasso had his pink period and his blue period. I am in my blonde period right now.
-
-When I first started wearing pink, it wasn't nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.
+# Promoting digital design 
+Through my work with the 1scale1 design studio, I co-founded and through my work with the university I have collaborated with City of Malmö on multiple initiatives mainly focusing on educating and promoting design and technology amongst children and youth in the region. This work has produced multiple workshops for the public, specially design classes for high school and the creation of Sweden's first hackerspace. 
+Fabriken is a part of Stapelbäddsparken which is a cultural centre place in the west harbour in Malmö. 1scale1 was one of the first partners where we helped build the foundation for the cultural centre also set up the strategy for the Fabriken and pave the way for how to operate it.     
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/70OzVfBxZFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

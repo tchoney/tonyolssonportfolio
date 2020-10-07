@@ -6,9 +6,11 @@ description: Service design & Web design
 ---
 
 
-### Picasso had his pink period and his blue period. I am in my blonde period right now.
+# The digital journey 
 
-When I first started wearing pink, it wasn't nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.
+Khärs is a premium flooring solution company based in the Nordics. I was invited to help Khärs set up a strategy and roadmap for their entier digitalization process. I developed a framework dubbed "Lighthouse" to help them evaluate and build business cases for all ongoing digital initiatives and to define a starting point. I also worked on work method strategies in the digitalization of the company and how to move into agile workflows while building up internal digital competencies gradually. 
+
+For Khärs I have also worked on digital innovation initiatives building a new online floor planning solution with a strategy on how to better integrate and set requirements for their 3ed party solutions providers.  
 
 
 
