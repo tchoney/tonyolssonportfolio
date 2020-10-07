@@ -11,7 +11,7 @@ When I first started wearing pink, it wasn't nothing I planned on doing or strat
 
 
 
-![Title](./movie2.mov)
+
 
 ![Title](./picture2.jpg)
 
