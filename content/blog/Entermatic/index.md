@@ -16,10 +16,10 @@ This was Entermatics first publication of a digital product where I also consult
 
 ![Title](./picture3.jpg)
 
-![Title](./picture4.jpg)
+![Title](./picture4.png)
 
-![Title](./picture5.jpg)
+![Title](./picture5.png)
 
-![Title](./picture6.jpg)
+![Title](./picture6.png)
 
 

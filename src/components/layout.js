@@ -33,7 +33,7 @@ const Layout = props => {
                 <Link to={`/about`}>About</Link>
               </li>
               <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
+                <Link to={`/elements`}>CV</Link>
               </li>
             </ul>
           </nav>
@@ -45,29 +45,22 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://medium.com/@tonyolsson1"
+                title="Medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Medium
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="https://www.linkedin.com/in/tonyolsson/"
+                title="Linkedin"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                Linkedin
               </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
+            
             </div>
           </div>
         </div>

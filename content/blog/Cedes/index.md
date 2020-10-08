@@ -1,7 +1,7 @@
 ---
 title: Cedes
 date: "2018-06-04"
-thumbnail: ./picture1.jpg
+thumbnail: ./picture1.png
 description: App design 
 ---
 
@@ -11,12 +11,12 @@ Cedes develops intelligent sensors solutions. I was brought on to help the desig
 The design was solely made for Android tablet use.     
 
 
-![Title](./picture2.jpg)
+![Title](./picture2.png)
 
-![Title](./picture3.jpg)
+![Title](./picture3.png)
 
-![Title](./picture4.jpg)
+![Title](./picture4.png)
 
-![Title](./picture5.jpg)
+![Title](./picture5.png)
 
-![Title](./picture6.jpg)
+![Title](./picture6.png)

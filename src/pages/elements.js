@@ -15,511 +15,251 @@ const ElementsPage = ({ data }, location) => {
     <Layout title={siteTitle}>
       <SEO
         title="All posts"
-        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+        keywords={[ `CV`, `history`, `references`]}
       />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <p>
-            This is{" "}
-            <strong>
-              <strong>bold</strong>
-            </strong>{" "}
-            and this is{" "}
-            <strong>
-              <strong>strong</strong>
-            </strong>
-            . This is{" "}
-            <em>
-              <em>italic</em>
-            </em>{" "}
-            and this is{" "}
-            <em>
-              <em>emphasized</em>
-            </em>
-            . This is <sup>superscript</sup>text and this is{" "}
-            <sub>subscript</sub> text. This is <u>underlined</u> and this is
-            code:{" "}
-            <code>
-              for (;;) {"{"} ... {"}"}
-            </code>
-            . Finally, this is a <a href="#">link</a>.
-          </p>
-          <h2 id="heading-level-2">Heading Level 2</h2>
-          <h3 id="heading-level-3">Heading Level 3</h3>
-          <h4 id="heading-level-4">Heading Level 4</h4>
-          <h5 id="heading-level-5">Heading Level 5</h5>
-          <h6 id="heading-level-6">Heading Level 6</h6>
-          <hr />
-          <h2 id="this-is-a-section">This is a section</h2>
-          <p>
-            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-            porttitor sem non mi integer non faucibus ornare mi ut ante amet
-            placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan
-            varius montes viverra nibh in adipiscing blandit tempus accumsan.
-          </p>
-          <h3 id="this-is-a-sub-section">This is a sub-section</h3>
-          <p>
-            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-            porttitor sem non mi integer non faucibus ornare mi ut ante amet
-            placerat aliquet.
-          </p>
-          <h3 id="this-is-a-sub-section-1">This is a sub-section</h3>
-          <p>
-            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-            porttitor sem non mi integer non faucibus ornare mi ut ante amet
-            placerat aliquet.
-          </p>
-          <hr />
-          <h2 id="lists">Lists</h2>
+        
+
+          <h2 id="heading-level-2">Experince</h2>
           <h3 id="unordered">
             <strong>
-              <strong>Unordered</strong>
+              <strong>Nordic Morning</strong>
             </strong>
-          </h3>
+             </h3>
+             <p>Lead Ux and service design. Responsibilities included business development, sales, offerings development and internal process building. Client work</p>
+         
           <ul>
-            <li>Dolor pulvinar etiam.</li>
-            <li>Sagittis lorem eleifend.</li>
-            <li>Felis feugiat dolore viverra.</li>
-            <li>Dolor pulvinar etiam.</li>
+            <li>
+              <strong>
+              <strong>AAK personal care</strong>
+            </strong>/ ​Lead Service Design 2020 - present, Globally Design strategy. Web platform design.
+            </li>
+
+            <li>
+              <strong>
+              <strong>Assa Abloy Entrance systems </strong>
+            </strong>/ ​Product Designer 2019 - present, Globally Design strategy. Design of leads generating tools.
+            </li>
+
+            <li>
+              <strong>
+              <strong>ADB Safegate</strong>
+            </strong>/ ​Design Strategist/ Lead designer 2019 - present, Globally Design strategy and business development. Workshop facilitation. Design lead for global web.
+            </li>
+
+            <li>
+              <strong>
+              <strong>Kährs flooring</strong>
+            </strong>/ ​Design Strategist/Lead designer 2019 - present, Globally Design strategy and business development. Workshop facilitation. Digitalization strategist.
+            </li>
+
+            <li>
+              <strong>
+              <strong>Brenderup Trailer</strong>
+            </strong>/ ​Design Strategy 2019 - present, Globally Design strategy and business development. Workshop facilitation. Digitalization strategist. Product design.
+            </li>
+
+            <li>
+              <strong>
+              <strong>Duni</strong>
+            </strong>/ ​Design strategist 2019 , Malmö, Sweden Design strategy and workshop facilitation.
+            </li>
+
+            <li>
+              <strong>
+              <strong>Loreal</strong>
+            </strong> / ​Ux design 2019 , Nordics Concept development. Prototyping.
+            </li>
+
           </ul>
-          <h3 id="ordered">Ordered</h3>
-          <ol>
-            <li>Dolor pulvinar etiam.</li>
-            <li>Etiam vel felis at viverra.</li>
-            <li>Felis enim feugiat magna.</li>
-            <li>Etiam vel felis nullam.</li>
-            <li>Felis enim et tempus.</li>
-          </ol>
-          <h3 id="definition">
-            <strong>Definition</strong>
-          </h3>
-          <dl>
-            <dt>Item 1</dt>
-            <dd>
-              <p>
-                Lorem ipsum dolor vestibulum ante ipsum primis in faucibus
-                vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-                adipiscing accumsan eu faucibus. Integer ac pellentesque
-                praesent.
-              </p>
-            </dd>
-            <dt>Item 2</dt>
-            <dd>
-              <p>
-                Lorem ipsum dolor vestibulum ante ipsum primis in faucibus
-                vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-                adipiscing accumsan eu faucibus. Integer ac pellentesque
-                praesent.
-              </p>
-            </dd>
-            <dt>Item 3</dt>
-            <dd>
-              <p>
-                Lorem ipsum dolor vestibulum ante ipsum primis in faucibus
-                vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-                adipiscing accumsan eu faucibus. Integer ac pellentesque
-                praesent.
-              </p>
-            </dd>
-          </dl>
-          <hr />
-          <h2 id="blockquote">
-            <strong>Blockquote</strong>
-          </h2>
-          <blockquote>
-            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis
-            sagittis eget tempus euismod. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-            adipiscing accumsan faucibus. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis.
-          </blockquote>
-          <hr />
-          <h2 id="images">Images</h2>
-          <figure className="kg-card kg-image-card">
-            <Img
-              fluid={data.smallPic.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Regular image</figcaption>
-          </figure>
-          <figure className="kg-card kg-image-card kg-width-wide">
-            <Img
-              fluid={data.medPic.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Large image</figcaption>
-          </figure>
-          <figure className="kg-card kg-image-card kg-width-full">
-            <Img
-              fluid={data.largePic.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Full bleed image</figcaption>
-          </figure>
-          <hr />
-          <h2 id="table">Table</h2>
-          <table>
-            <thead>
-              <tr>
-                <th>Name</th>
-                <th>Description</th>
-                <th>Price</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Item 1</td>
-                <td>Ante turpis integer aliquet porttitor.</td>
-                <td>29.99</td>
-              </tr>
-              <tr>
-                <td>Item 2</td>
-                <td>Vis ac commodo adipiscing arcu aliquet.</td>
-                <td>19.99</td>
-              </tr>
-              <tr>
-                <td>Item 3</td>
-                <td> Morbi faucibus arcu accumsan lorem.</td>
-                <td>29.99</td>
-              </tr>
-              <tr>
-                <td>Item 4</td>
-                <td>Vitae integer tempus condimentum.</td>
-                <td>19.99</td>
-              </tr>
-              <tr>
-                <td>Item 5</td>
-                <td>Ante turpis integer aliquet porttitor.</td>
-                <td>29.99</td>
-              </tr>
-            </tbody>
-            <tfoot>
-              <tr>
-                <td colSpan={2} />
-                <td>100.00</td>
-              </tr>
-            </tfoot>
-          </table>
-          <hr />
-          <h2 id="buttons">Buttons</h2>
-          <ul className="actions">
+
+       
+          <h3 id="unordered">
+            <strong>
+              <strong>Softhouse Consulting</strong>
+            </strong>
+             </h3>
+             <p>Jan 2018 - 2019, Malmö Design consultant and design strategist. Focusing on digital product development for all standard platforms. Internal Design lead, building up internal design team and design education. Clients work:</p>
+         
+          <ul>
             <li>
-              <a href="#" className="button primary">
-                Primary
-              </a>
+              <strong>
+              <strong>Tetra Pak</strong>
+            </strong>/ ​Product Designer Mar 2019 - Sep 2019, Lund, Sweden Design of business intelligence visualization toolkit .
             </li>
+
             <li>
-              <a href="#" className="button">
-                Default
-              </a>
+              <strong>
+              <strong>Assa Abloy Entrance systems </strong>
+            </strong> /Ux designer Feb- 2018 - Mar 2019, Globally Development of consumer and service technician app for revolving and sliding doors.
             </li>
+
+            <li>
+              <strong>
+              <strong>Cedes</strong>
+            </strong>/ ​Ux designer Apr 2018 - Dec 2019 Landquart, Switzerland Development of service technician mobile application. Focus on sensor technology and 3d visualization.
+            </li>
+
+            <li>
+              <strong>
+              <strong>ELO Language</strong>
+            </strong>/ ​Product Designer Apr 2018 - SEP 2018, Lund, Sweden Design and concept development for a browser based language training tool.
+            </li>
+
+            <li>
+              <strong>
+              <strong>Tetra Pak</strong>
+            </strong>/ ​Product Designer, sprint facilitator Aug 2018 - Sep 2019, Lund, Sweden Design of vibration analytics data visualisation and user interface for internal stakeholders.
+            </li>
+
+            <li>
+              <strong>
+              <strong>ABB</strong>
+            </strong>/ ​Product Designer Mar 2018 - June 2018, Ludvika, Sweden Product designer, mobile application for indoor office navigation and sensor visualization.
+            </li>
+
+            <li>
+              <strong>
+              <strong>Reqs</strong>
+            </strong> / ​Product Designer Feb 2018 - June 2018, Malmö, Sweden Product designer, mobile application for building sensor network visualization and maintenance.
+            </li>
+
           </ul>
-          <ul className="actions">
-            <li>
-              <a href="#" className="button primary large">
-                Large
-              </a>
-            </li>
-            <li>
-              <a href="#" className="button">
-                Default
-              </a>
-            </li>
-            <li>
-              <a href="#" className="button small">
-                Small
-              </a>
-            </li>
-          </ul>
-          <ul className="actions fit">
-            <li>
-              <a href="#" className="button primary fit">
-                Fit
-              </a>
-            </li>
-            <li>
-              <a href="#" className="button fit">
-                Fit
-              </a>
-            </li>
-          </ul>
-          <ul className="actions fit small">
-            <li>
-              <a href="#" className="button primary fit small">
-                Fit + Small
-              </a>
-            </li>
-            <li>
-              <a href="#" className="button fit small">
-                Fit + Small
-              </a>
-            </li>
-          </ul>
-          <ul className="actions">
-            <li>
-              <span className="button primary disabled">Primary</span>
-            </li>
-            <li>
-              <span className="button disabled">Default</span>
-            </li>
-          </ul>
-          <hr />
-          <h2 id="forms">Forms</h2>
-          <form method="post" action="#">
-            <div className="row gtr-uniform">
-              <div className="col-6 col-12-xsmall">
-                <input
-                  type="text"
-                  name="demo-name"
-                  id="demo-name"
-                  defaultValue
-                  placeholder="Name"
-                />
-              </div>
-              <div className="col-6 col-12-xsmall">
-                <input
-                  type="email"
-                  name="demo-email"
-                  id="demo-email"
-                  defaultValue
-                  placeholder="Email"
-                />
-              </div>
-              {/* Break */}
-              <div className="col-12">
-                <select name="demo-category" id="demo-category">
-                  <option value>- Category -</option>
-                  <option value={1}>Manufacturing</option>
-                  <option value={1}>Shipping</option>
-                  <option value={1}>Administration</option>
-                  <option value={1}>Human Resources</option>
-                </select>
-              </div>
-              {/* Break */}
-              <div className="col-4 col-12-small">
-                <input
-                  type="radio"
-                  id="demo-priority-low"
-                  name="demo-priority"
-                  defaultChecked
-                />
-                <label htmlFor="demo-priority-low">Low</label>
-              </div>
-              <div className="col-4 col-12-small">
-                <input
-                  type="radio"
-                  id="demo-priority-normal"
-                  name="demo-priority"
-                />
-                <label htmlFor="demo-priority-normal">Normal</label>
-              </div>
-              <div className="col-4 col-12-small">
-                <input
-                  type="radio"
-                  id="demo-priority-high"
-                  name="demo-priority"
-                />
-                <label htmlFor="demo-priority-high">High</label>
-              </div>
-              {/* Break */}
-              <div className="col-6 col-12-small">
-                <input type="checkbox" id="demo-copy" name="demo-copy" />
-                <label htmlFor="demo-copy">Email me a copy</label>
-              </div>
-              <div className="col-6 col-12-small">
-                <input
-                  type="checkbox"
-                  id="demo-human"
-                  name="demo-human"
-                  defaultChecked
-                />
-                <label htmlFor="demo-human">I am a human</label>
-              </div>
-              {/* Break */}
-              <div className="col-12">
-                <textarea
-                  name="demo-message"
-                  id="demo-message"
-                  placeholder="Enter your message"
-                  rows={6}
-                  defaultValue={""}
-                />
-              </div>
-              {/* Break */}
-              <div className="col-12">
-                <ul className="actions">
-                  <li>
-                    <input
-                      type="submit"
-                      defaultValue="Send Message"
-                      className="primary"
-                    />
-                  </li>
-                  <li>
-                    <input type="reset" defaultValue="Reset" />
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </form>
-          <h2 id="code">Code</h2>
-          <pre>
-            <code>
-              i = 0;{"\n"}
-              {"\n"}while (!deck.isInOrder()) {"{"}
-              {"\n"}
-              {"    "}print 'Iteration ' + i;{"\n"}
-              {"    "}deck.shuffle();{"\n"}
-              {"    "}i++;{"\n"}
-              {"}"}
-              {"\n"}
-              {"\n"}print 'It took ' + i + ' iterations to sort the deck.';
-            </code>
-          </pre>
-          <h2 id="grid-system">Grid system</h2>
-          <div className="row">
-            <div className="col-12">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                12
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-3">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                3
-              </div>
-            </div>
-            <div className="col-9">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                9
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-6">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                6
-              </div>
-            </div>
-            <div className="col-6">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                6
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-          </div>
+
+          <h3 id="unordered">
+            <strong>
+              <strong>European Commission </strong>
+            </strong>
+             </h3>
+             <p>​Interaction Designer Jan 2014 - Jan 2015, Malmö, Sweden
+Design research and concept development for digital learning environments focusing on S.T.E.M learning.</p>
+
+<h3 id="unordered">
+            <strong>
+              <strong>Malmö University</strong>
+            </strong>
+             </h3>
+             <p>​IOIO Lab manager Feb 2011 - June 2018, Malmö, Sweden
+Part of founding the IOIO laboratory at the University where I eventually took on the role as lab manager. Responsibility included planning and running all of the laboratories educational engagements as well as staffing and training Teaching assistants. This included teaching and mentoring the TAs in design and technological pedagogy.</p>
+
+<h3 id="unordered">
+            <strong>
+              <strong>Malmö University</strong>
+            </strong>
+             </h3>
+             <p>​​Adjunct lecturer Feb 2008 - Jan 2018, Malmö, Sweden
+Lecturer in interaction design, service design, digital prototyping. Course responsible for Physical prototyping, Programing for interactivity and final thesis course in interaction design.
+During my time I also worked with the departments of product design, visual design, information architecture, system engineering, computer science and game design.
+I also worked as a guest lecture at the following institutions</p>
+<ul>
+<li>
+ITU, it university of Copenhagen, Denmark
+</li>
+
+<li>
+Hyper Island, Karlskrona, Sweden
+</li>
+
+<li>
+University of AArhus, Denmark
+</li>
+
+<li>
+Teeks electronics Aart center, Trondheim, Norway
+</li>
+
+<li>
+Domus Academy, Milan, Italy
+</li>
+
+<li>
+Lund University, faculty of engineering, Helsingborg Sweden
+</li>
+
+<li>
+Lasalle college of Art, Singapore
+</li>
+
+<li>
+Cape town University of technology, South Africa
+</li>
+
+<li>
+Tecnologico de Monterrey Campus Queretaro, Mexico
+</li>
+  
+</ul>
+
+<h3 id="unordered">
+            <strong>
+              <strong>Arduino Foundation</strong>
+            </strong>
+             </h3>
+             <p>​Jan 2009 - Sep 2013, Malmö, Sweden Designing online educational content and videos. Beta tester.</p>
+
+             <h3 id="unordered">
+            <strong>
+              <strong>Libelium</strong>
+            </strong>
+             </h3>
+             <p>​Designer, Developer
+Jan 2009 - Dec 2009, Malmö, Sweden
+Software development and documentation for the Waspmote wireless sensor controller</p>
+
+             <h3 id="unordered">
+            <strong>
+              <strong>1scale1</strong>
+            </strong>
+             </h3>
+             <p>​ Senior Interaction designer ​/ Founder Mar 2007 - Jan 2013, Malmö, Sweden
+Founder and design lead of a design studio focusing on rapid concept development and technology prototyping. One of the studio's main clients and collaborators was the municipality of Malmö and STPL kulture center in Malmö.</p>
+<hr />
+
+<h2 id="heading-level-2">Education</h2>
+          <h3 id="unordered">
+            <strong>
+              <strong>Malmö University ​/M.A Computer Science</strong>
+            </strong>
+             </h3>
+             <p>CLASS OF 2016 Focus on technologies and concept essential for the development of complex systems.</p>
+
+             <h3 id="unordered">
+            <strong>
+              <strong>Malmö University ​/B.A Interaction design</strong>
+            </strong>
+             </h3>
+             <p>CLASS OF 2009
+Focus on creating useful, interactive, utility-oriented design, expressive design for pleasure, as well as critical and aesthetic-oriented design. Interaction design is an area that has emerged in response to the digital properties of the material. The education borrows theory and methods
+from traditional design, informatics, social sciences, humanities and arts​.</p>
+
+             <h3 id="unordered">
+            <strong>
+              <strong>Malmö University ​/B.A Philosophy</strong>
+            </strong>
+             </h3>
+             <p>CLASS OF 2006
+Focus on practical philosophy within the area of moral, value and politics. Combined degree with studies in Media and Communication with a focus on mediated information impacts on society</p>
+
+             <h3 id="unordered">
+            <strong>
+              <strong>Falkenberg Art School ​/Associate Arts (AA)</strong>
+            </strong>
+             </h3>
+             <p>CLASS OF 2003
+Major in traditional painting and sculpture</p>
+
+<h3 id="unordered">
+            <strong>
+              <strong>Scrum Alliance /Product Owner</strong>
+            </strong>
+             </h3>
+             <p>Jan 2019
+Certified scrum product owner</p>
+         
+<hr />      
+          
         </div>
       </article>
     </Layout>
