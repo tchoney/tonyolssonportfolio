@@ -12,13 +12,15 @@ AAK personal care (APC) is a subsidiary within the AAK brand. APC wanted to refr
 I was brought on board as the lead UX strategist where I helped build the initial business case internally and guiding the design process from the start. I worked on re-framing the existing communication strategy and building the APC service blueprint. 
 I also worked on mapping the user journey and designing the new user flow with multiple new digital touchpoints.
 
+![Mockup](./picture5.png)
+
+![Mockup](./picture6.png)
+
 ![Wireframe](./picture2.png)
 
 ![Wireframe](./picture3.png)
 
 ![Wireframe](./picture4.png)
 
-![Mockup](./picture5.png)
 
-![Mockup](./picture6.png)
 
