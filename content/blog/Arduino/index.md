@@ -5,21 +5,15 @@ thumbnail: ./picture1.jpg
 description: Content production & Design
 ---
 
-### Picasso had his pink period and his blue period. I am in my blonde period right now.
+## Design Prototyping 
 
-When I first started wearing pink, it wasn't nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.
+I worked together with the Arduino foundation since their early start in 2006. Mainly in the production of learning content alongside hardware testing. Much of our work together was based on experimental learning technics building on productive failure learning models. 
+Much of the work consisted of written work but I also produced a multiple video tutorials, some in collaborations with other companies. 
+I also got the chance to produce a few "commercial" for some of their new product launches.
 
-![Title](./picture1.jpg)
+On multiple occasions, I have acted as a spokesperson for the Arduino prototyping platform performing guest lectures and workshops around the world.   
 
-![Title](./picture2.jpg)
 
-![Title](./picture3.jpg)
-
-![Title](./picture4.jpg)
-
-![Title](./picture5.jpg)
-
-![Title](./picture6.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0p5AAIJW-CY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
