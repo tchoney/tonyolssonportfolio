@@ -15,14 +15,6 @@ Tony Olsson
 
 **Demo: https://gatsby-london.netlify.com**
 
----
-<p align="center">
-  <a href="https://jamstack.studio">
-    <img alt="Jamstack Studio" src="https://raw.githubusercontent.com/ImedAdel/media/master/jamstack.studio_(Laptop%20with%20HiDPI%20screen).png" />
-  </a>
-</p>
-
-
 
 _First time with Gatsby? Take a look on the [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
