@@ -8,7 +8,7 @@ description: Visualising data
 
 # Designing what is good
 
-Tetra Pak is one of the world's largest manufacturer of processing and packaging solutions for food. I was apart of a pilot project working with data analytics and visualisation primarily towards internal stakeholders in Predictive Maintenance and Condition Monitoring. 
+Tetra Pak is one of the world's largest manufacturers of processing and packaging solutions for food. I was a part of a pilot project working with data analytics and visualisation primarily towards internal stakeholders in Predictive Maintenance and Condition Monitoring. 
 The group are tasked with real-time monitoring of critical equipment parts. Predictive Maintenance identifies deviations in machine functions that could lead to performance issues or machine breakdowns. 
 They offer Predictive Maintenance service taking full responsibility for equipment set-up, data analysis and maintenance. 
 
@@ -22,8 +22,8 @@ After a successful pilot project, we were invited into a new project with the sa
 
 ![Title](./picture2.jpg)
 
-I was a part of two successful projects where we were able to establish and maintain a user-centred approach to the visualization of data aimed to contribute to existing workflows.  We where also able to provide a model for how to customize the interactive reports to provide key insights for multiple stakeholders internally and externally.      
-Even though the project where successful we found that a stronger design thinking approach with an alternate service design strategy early on in the initiation of the project could have been beneficial. Many stakeholders needs had been assumed and not matched with real-life needs. As the established workflow proved there is a high level of flexibility and customizability possible in the current state of interactive report building technology. This offers the possibility to guide design strategy from the start towards a customized solution according to specific needs and user rather than looking for unified solutions that fit many needs.  
+I was a part of two successful projects where we were able to establish and maintain a user-centred approach to the visualization of data aimed to contribute to existing workflows.  We were also able to provide a model for how to customize the interactive reports to provide key insights for multiple stakeholders internally and externally.      
+Even though the project where successful we found that a stronger design thinking approach with an alternate service design strategy early on in the initiation of the project could have been beneficial. Many stakeholders needs had been assumed and not matched with real-life needs. As the established workflow proved there is a high level of flexibility and customizability possible in the current state of interactive report building technology. This offers the possibility to guide design strategy from the start towards a customized solution according to specific needs and users rather than looking for unified solutions that fit many needs.  
 
 ![Title](./picture3.jpg)
 

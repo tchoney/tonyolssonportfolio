@@ -12,7 +12,7 @@ This was Entermatics first publication of a digital product where I also consult
 
 ![Title](./picture2.jpg)
 
-One of the most enjoyable aspects of working with Entermatic was that even though they were not a primarily design-driven company I was given a lot of freedom to explore how we could increase the user experience. We put a lot of work into the fidelity of the design introducing and exploring micro animation for improving the understanding of the product. Exploring SVG animation was a joy as this was done in close collaboration between the client, design and development as standards for how to do it was lacking at the time and required a good understanding of the technical aspects of visual elements and code form both the developers and designers.     
+One of the most enjoyable aspects of working with Entermatic was that even though they were not a primarily design-driven company I was given a lot of freedom to explore how we could increase the user experience. We put a lot of work into the fidelity of the design introducing and exploring micro animation for improving the understanding of the product. Exploring SVG animation was a joy as this was done in close collaboration between the client, design and development as standards for how to do it was lacking at the time and required a good understanding of the technical aspects of visual elements and code from both the developers and designers.     
 
 ![Title](./picture3.jpg)
 
