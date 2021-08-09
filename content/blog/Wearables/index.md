@@ -32,6 +32,8 @@ Turning the body of the user into the stage of an internal and psychological dra
 The Blind Theater turns the body into the stage of a sensorial theater. The piece plays with the body as the central stage of a different theatrical experience.
 Upon entering the theater, the visitor is met by a personal guide. This guide follows the user through the whole play, a half hour long dive into a different sensorial reality. For the first time, the blind gain full access to the theater and –on the other side- the sighted gets the sensation of the blinded.
 
+![Title](./picture4.jpg)
+
 ## Stitchies
 
 Human Stitchies is a playful performance built both on the autoerotic exploration of one’s own body in combination with the shared experience of exchanged, tactile imprints.
@@ -40,7 +42,7 @@ The performance connects two participants over a telehaptic network. For an on s
 
 The system is based on our latest open-source, Arduino based and wireless system. Each bodysuit has a full-body resolution of 120 haptic zones. Every zone includes one tactor (tactile output) in combination with a touch sensitive input (sensor). When touching their own body each participant sends the corresponding body image to the remote user. The telehaptic communication is further extended by adding a haptic vocabulary that triggers when users touches themselves in certain configurations. This vocabulary consists of a library of pre-edited haptic patterns. A voice channel is included to facilitate for immediate feedback and communication.
 
-![Title](./picture4.jpg)
+
 
 ![Title](./picture5.jpg)
 
