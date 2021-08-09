@@ -43,7 +43,6 @@ The performance connects two participants over a telehaptic network. For an on s
 The system is based on our latest open-source, Arduino based and wireless system. Each bodysuit has a full-body resolution of 120 haptic zones. Every zone includes one tactor (tactile output) in combination with a touch sensitive input (sensor). When touching their own body each participant sends the corresponding body image to the remote user. The telehaptic communication is further extended by adding a haptic vocabulary that triggers when users touches themselves in certain configurations. This vocabulary consists of a library of pre-edited haptic patterns. A voice channel is included to facilitate for immediate feedback and communication.
 
 
-
 ![Title](./picture5.jpg)
 
 ![Title](./picture6.jpg)
